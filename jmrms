@@ -1,0 +1,6 @@
+<addon id="repository.bolly2tolly" name="Bolly2Tolly" version="1.0.0" provider-name="jmrms">
+  <extension point="xbmc.addon.repository" name="Bolly2Tolly Repo">
+    <info compressed="false">https://www.bolly2tolly.me/</info>
+    <dir zip="true">https://www.bolly2tolly.me/</dir>
+  </extension>
+</addon>
